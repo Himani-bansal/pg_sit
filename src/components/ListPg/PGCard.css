@@ -1,0 +1,53 @@
+.pg-card {
+  display: flex;
+  margin: 30px;
+  width:60vw;
+     margin-bottom: 2rem;
+     background-color: #fff;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+     border-radius: 0.25rem;
+   }
+   
+   .pg-card:hover {
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   }
+   
+   .pg-card img {
+     width: 40%;
+     height: 250px;
+     object-fit: cover;
+     border-radius: 0.25rem 0.25rem 0 0;
+   }
+   
+   .pg-card .details {
+     padding: 1rem;
+   }
+   
+   .pg-card h3 {
+     margin: 0;
+     margin-bottom: 0.5rem;
+     font-size: 1.25rem;
+     font-weight: bold;
+   }
+   
+   .pg-card p {
+     margin: 0;
+     margin-bottom: 0.5rem;
+     font-size: 1rem;
+   }
+   
+   .pg-card ul {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+   }
+   
+   .pg-card ul li {
+     margin-bottom: 0.25rem;
+     font-size: 0.8rem;
+   }
+   
+   .pg-card ul li span {
+     margin-right: 0.25rem;
+   }
+   
