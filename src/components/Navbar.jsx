@@ -19,7 +19,7 @@ const Navbar = () => {
         <li>
           <a
             className="ff_space fw_400 blk_clr fs_sm blue_hover_clr"
-            href="/homepage"
+            href="/"
           >
             Home
           </a>
